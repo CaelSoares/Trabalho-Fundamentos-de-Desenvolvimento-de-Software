@@ -1,0 +1,42 @@
+body{
+    background-color: skyblue;
+}
+.titulo{
+    text-align: center;
+    color:blue;
+}
+.pg{
+    text-align: justify;
+    font-size: 30px;
+}
+.lista{
+    list-style:circle;
+    margin-bottom: 2em;
+    font-size: 20px;
+}
+
+.imagem{
+    border-radius: 10px; 
+    margin-bottom: 2em;
+}
+.tabela{
+    border: 5px solid black;
+    background-color:rgb(250, 40, 40);
+}
+td{
+    color: blue;
+    font-size: 30px;
+    font-style: italic;
+
+}
+table,th,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin:2% 0;
+}
+.link{
+    font-size:40px;
+}
+.link:hover{
+    color: green;
+}
